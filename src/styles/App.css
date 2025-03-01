@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('../assets/Broadway.ttf') format('truetype'),
+         url('../assets/Broadway.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: auto; 
+    height: auto; 
+    margin: 0; 
+    font-family: 'CustomFont', sans-serif;
+    background-color: #0A1F44;
+    color: #FFD700;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
