@@ -1,17 +1,17 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Cinema Board*
 
-Submitted by: **Your Name Here**
+Submitted by: **Munashe Mukweya**
 
-This web app: **insert description**
+This web app: **Cinema Board is a web application that shows upcoming movie screenings at a community theatre. The application shows the movie title, a short description of the movie, and its movie poster.**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [X] **There is a unique theme for events or resources relevant to a specific community**
+- [X] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
@@ -41,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Munashe Mukweya]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
